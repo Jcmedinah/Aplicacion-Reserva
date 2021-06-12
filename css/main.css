@@ -1,3 +1,15 @@
 body{
     background:url(https://cdn.hipwallpaper.com/i/89/22/WRFBwX.jpg);
 }
+form{
+    position: absolute;
+width: 336px;
+height: 474px;
+left: 344px;
+top: 149px;
+
+background: #C4C4C4;
+}
+h1{
+    color:white
+}
